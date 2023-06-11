@@ -1,0 +1,19 @@
+{
+	"name": "AlphaAdvantageIntraday",
+	"properties": {
+		"description": "?function=TIME_SERIES_INTRADAY&symbol=IBM&interval=5min&outputsize=full&apikey=demo",
+		"parameters": {
+			"apikey": {
+				"type": "string",
+				"defaultValue": "4YSGSM86XRY4RGBA"
+			}
+		},
+		"annotations": [],
+		"type": "RestService",
+		"typeProperties": {
+			"url": "https://www.alphavantage.co/query",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
