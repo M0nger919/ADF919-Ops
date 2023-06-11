@@ -1,0 +1,9 @@
+{
+	"name": "ADF-919",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "970a86f8-d67c-4645-a791-476cb32957f1",
+		"tenantId": "703c7f55-1e8e-4ed0-a52d-26a0b7ecfda7"
+	}
+}
